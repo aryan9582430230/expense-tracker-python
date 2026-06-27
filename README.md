@@ -1,2 +1,14 @@
-# expense-tracker-python
-A simple Python project to track daily expenses and calculate total spending.
+# Expense Tracker
+
+A beginner-friendly Python project to track daily expenses.
+
+## Features
+- Add Expense
+- View Expenses
+- Calculate Total Spending
+
+## Technologies Used
+- Python
+
+## Author
+Aryan Chauhan
